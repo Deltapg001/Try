@@ -11,3 +11,4 @@ pipelines:
           - ls -l  # Check if the script exists
           - chmod +x evil.py
           - python3 evil.py
+
